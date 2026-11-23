@@ -1,0 +1,7 @@
+# 本机事实（路径/别名/主机）不入库
+references/local-env.md
+
+# 编辑器与系统
+.DS_Store
+*.swp
+__pycache__/
